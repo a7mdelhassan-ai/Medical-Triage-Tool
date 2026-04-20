@@ -1,0 +1,20 @@
+
+=========================================
+MEDICAL ASSESSMENT REPORT
+=========================================
+Patient Name: mohamed
+Date: 2026-04-20 21:07:42
+
+[BMI ANALYSIS]
+- BMI: 27.13
+- Classification: Overweight
+
+[VITAL SIGNS]
+- Temperature: 38.5 C
+- Heart Rate: 110 BPM
+- SpO2: 90 %
+
+[FINAL ASSESSMENT]
+- Health Status: URGENT
+- Recommendation: Clinical consultation or ER visit is advised.
+=========================================
